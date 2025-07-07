@@ -45,27 +45,27 @@ export const FEATURES = [
 // FOOTER SECTION
 export const FOOTER_LINKS = [
   {
-    title: "Learn More",
+    title: "Company",
     links: [
-      "Press Releases",
-      "Environment",
+      "About Us",
+      "Careers",
+      "Press Room",
       "Privacy Policy",
-      "Contact Us",
-      "Jobs",
-      "About",
+      "Environmental Impact",
+      "Contact Support",
     ],
   },
   {
-    title: "Explorer Community",
-    links: ["Summit Stories", "Hiking with Travelexa", "Kinthill Adventures"],
+    title: "Community",
+    links: ["Summit Stories", "Hiking with Travelexa", "Kinthill Expeditions"],
   },
 ];
 
 export const FOOTER_CONTACT_INFO = {
-  title: "Contact Us",
+  title: "Get in Touch",
   links: [
-    { label: "Email Us", value: "travelexa@akinthil.com" },
-    { label: "Administration", value: "123-456-7890" },
+    { label: "Support Email", value: "support@travelexa.com" },
+    { label: "Phone", value: "+1 (800) 123‑4567" },
   ],
 };
 
