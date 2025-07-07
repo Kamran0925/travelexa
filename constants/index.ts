@@ -13,32 +13,32 @@ export const PEOPLE_URL = ["/person-1.png", "/person-2.png", "/person-3.png"];
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: "Offline Navigation Support",
+    title: "Offline Maps & Navigation",
     icon: "/map.svg",
     variant: "green",
     description:
-      "Access detailed maps even without internet. Perfect for remote hikes and mountain trails with no network coverage.",
+      "Explore remote trails with confidence using detailed offline maps—no signal needed.",
   },
   {
-    title: "Plan Trips with Ease",
+    title: "Easy Trip Planning",
     icon: "/calendar.svg",
     variant: "green",
     description:
-      "Create and manage your travel itinerary effortlessly. Sync plans with friends and enjoy stress-free adventures.",
+      "Organize your itinerary, sync with friends, and hit the trail fully prepared.",
   },
   {
-    title: "AR-Powered Trail Guidance",
+    title: "AR Trail Guidance",
     icon: "/tech.svg",
     variant: "green",
     description:
-      "Navigate using augmented reality for an immersive hiking experience — works seamlessly even offline.",
+      "Follow immersive augmented reality paths for smarter, safer adventures.",
   },
   {
-    title: "Fresh Destinations Monthly",
+    title: "New Places Every Month",
     icon: "/location.svg",
     variant: "orange",
     description:
-      "Discover new places added every month by our global explorer community. Adventure never gets old.",
+      "Get inspired with fresh destinations added regularly by fellow explorers.",
   },
 ];
 
