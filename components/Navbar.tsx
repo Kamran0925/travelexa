@@ -24,15 +24,6 @@ const Navbar = () => {
         ))}
       </ul>
 
-      <div className="lg:flexCenter hidden">
-        <Button
-          type="button"
-          title="Sign In"
-          icon="/user.svg"
-          variant="btn_dark_green hover:bg-gradient-to-r hover:from-green-500 hover:to-green-700 hover:shadow-lg transition-all duration-300 text-white font-semibold rounded-full px-6 py-2"
-        />
-      </div>
-
       <Image
         src="menu.svg"
         alt="menu"
